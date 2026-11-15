@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Sprite Master"
+  short_description: "Pixel-art character consistency, animations, QA, and game-ready exports"
+  brand_color: "#382F2D"
